@@ -9,4 +9,4 @@ I'm Aman and I am a Software Engineer. I am keenly interested in projected relat
 Curious about me? [Check out my portfolio. (https://amanagarwal.in/)
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=agarwalaman263&show_icons=true)
-<span><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css"/></span>
+<img align="center" style="margin-left:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css"/>
