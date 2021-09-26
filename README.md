@@ -14,6 +14,9 @@ Curious about me? [Check out my portfolio.](https://amanagarwal.in/)
 </p>
 
 ## 💼 Skills
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
