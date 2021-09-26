@@ -7,6 +7,7 @@ Hey there 👋
 I'm Aman and I am a Software Engineer. I am keenly interested in projected related to cloud architecture and data sciences. I have a considerable experience with both front-end as well as back-end development. 
 
 Curious about me? [Check out my portfolio. (https://amanagarwal.in/)
-
+<p>
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=agarwalaman263&show_icons=true)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css"/>
+</p>
